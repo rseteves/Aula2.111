@@ -1,4 +1,5 @@
 Tetris
-Pitfall
+Streat F
 Endure
 Pacman
+Tarzan
